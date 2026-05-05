@@ -1,0 +1,39 @@
+{
+  "public": {
+    "default": {
+      "commerce-core_endpoint": "https://oqyof733ykmii.dummycachetest.com/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/JrQgV1o7ooE3CpuZPq1B8U/graphql",
+      "headers": {
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "AC-View-ID": "bbc3a17e-1058-40e4-8da5-7bd5e83fa1cc",
+          "AC-Price-Book-ID": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+          "Magento-Store-Code": "main_website_store",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base"
+        }
+      },
+      "commerce-b2b-enabled": false,
+      "commerce-companies-enabled": false,
+      "commerce-assets-enabled": true,
+      "adobe-commerce-optimizer": true,
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Testing",
+        "environment-id": "JrQgV1o7ooE3CpuZPq1B8U",
+        "locale": "default",
+        "store-url": "http://oqyof733ykmii.dummycachetest.com/",
+        "store-view-currency-code": "USD",
+        "storefront-template": "EDS",
+        "view-id": "bbc3a17e-1058-40e4-8da5-7bd5e83fa1cc"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "2"
+        }
+      }
+    }
+  }
+}
